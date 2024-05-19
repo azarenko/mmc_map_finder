@@ -1,0 +1,7 @@
+D:\projects\mmc_map_finder\mmc_map_finder2\bin\Debug\mmc_map_finder2.exe.config
+D:\projects\mmc_map_finder\mmc_map_finder2\bin\Debug\mmc_map_finder2.exe
+D:\projects\mmc_map_finder\mmc_map_finder2\bin\Debug\mmc_map_finder2.pdb
+D:\projects\mmc_map_finder\mmc_map_finder2\obj\Debug\mmc_map_finder2.csproj.AssemblyReference.cache
+D:\projects\mmc_map_finder\mmc_map_finder2\obj\Debug\mmc_map_finder2.csproj.CoreCompileInputs.cache
+D:\projects\mmc_map_finder\mmc_map_finder2\obj\Debug\mmc_map_finder2.exe
+D:\projects\mmc_map_finder\mmc_map_finder2\obj\Debug\mmc_map_finder2.pdb

@@ -1,0 +1,10 @@
+D:\projects\mmc_map_finder\mmc_map_finder\bin\Debug\mmc_map_finder.exe
+D:\projects\mmc_map_finder\mmc_map_finder\bin\Debug\mmc_map_finder.pdb
+D:\projects\mmc_map_finder\mmc_map_finder\obj\Debug\mmc_map_finder.csproj.CoreCompileInputs.cache
+D:\projects\mmc_map_finder\mmc_map_finder\obj\Debug\mmc_map_finder.exe
+D:\projects\mmc_map_finder\mmc_map_finder\obj\Debug\mmc_map_finder.pdb
+D:\projects\mmc_map_finder\mmc_map_finder\obj\Debug\mmc_map_finder.csproj.CopyComplete
+D:\projects\mmc_map_finder\mmc_map_finder\bin\Debug\mmc_map_finder.exe.config
+D:\projects\mmc_map_finder\mmc_map_finder\bin\Debug\NeuralNetwork.dll
+D:\projects\mmc_map_finder\mmc_map_finder\bin\Debug\NeuralNetwork.pdb
+D:\projects\mmc_map_finder\mmc_map_finder\obj\Debug\mmc_map_finder.csproj.AssemblyReference.cache
